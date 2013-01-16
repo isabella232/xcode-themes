@@ -91,8 +91,52 @@
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.character</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.number</key>
+		<string>EnvyCodeR - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 12.0</string>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.string</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.url</key>
+		<string>EnvyCodeR - 16.0</string>
 	</dict>
 </dict>
 </plist>

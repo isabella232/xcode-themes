@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.951356 1 0.994646 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Consolas - 14.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.951356 1 0.994646 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>Consolas - 14.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.169 0.512 0.625 1</string>
+	<string>0.283746 0.908313 1 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Consolas - 14.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.951356 1 0.994646 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>Consolas - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.951356 1 0.994646 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Consolas - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>1 1 1 1</string>
+	<string>0.183105 0.183105 0.183105 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -35,11 +35,11 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>0.0237542 1 0.846041 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.891972 0.635291 1 1</string>
+	<string>0.4574 0.379284 0.478261 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -65,9 +65,9 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.357825 0.601343 0.763679 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.894339 0.894507 0.894297 1</string>
+		<string>0.745368 0.726301 0.894507 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.894339 0.894507 0.894297 1</string>
+		<string>0.745368 0.726301 0.894507 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.895481 0.410088 0.168548 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
@@ -83,7 +83,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.926027 0.924097 0.966442 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.894339 0.894507 0.894297 1</string>
+		<string>0.745368 0.726301 0.894507 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.620403 0.779633 0.390012 1</string>
 		<key>xcode.syntax.url</key>
@@ -91,8 +91,52 @@
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.character</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>EnvyCodeR-Italic - 16.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.number</key>
+		<string>EnvyCodeR - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 12.0</string>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.string</key>
+		<string>EnvyCodeR - 16.0</string>
+		<key>xcode.syntax.url</key>
+		<string>EnvyCodeR - 16.0</string>
 	</dict>
 </dict>
 </plist>
